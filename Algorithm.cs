@@ -75,7 +75,7 @@ public class Algorithm
     }
 
     // [Benchmark]
-    [ArgumentsSource(nameof(Datas))]
+    // [ArgumentsSource(nameof(Datas))]
     public void MergeByList(int[] input)
     {
         var result = mergeAndSort(input);
