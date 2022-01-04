@@ -1,3 +1,8 @@
+## Toolkit
+```c#
+dotnet add package BenchmarkDotNet --version 0.13.1
+```
+
 ## Quickly Start
 ```cmd
 dotnet run -c Release
